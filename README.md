@@ -19,7 +19,7 @@ pip2 install bs4
 
 pip2 install futures
 
-https://github.com/Khansahab078/Sherrylover.git
+git clone https://github.com/Khansahab078/Sherrylover.git
 
 cd Sherrylover
 
